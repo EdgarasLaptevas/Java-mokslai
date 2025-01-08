@@ -15,9 +15,8 @@ public class NumberOfNumbers {
             if (number == 0) {
                 System.out.println("Number of numbers: " + count);
             }
-
         }
-
+        reader.close();
 
     }
 }
