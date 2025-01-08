@@ -39,6 +39,6 @@ public class RepeatingBreakingAndRemembering {
                 System.out.println("Odd: " + countOddNumbers);
             }
         }
-
+        calc.close();
     }
 }

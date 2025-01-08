@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ab952a5d-d2fe-47ac-8e64-856640536026" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Uzduotis1_08.01/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uzduotis1_08.01/.idea/Uzduotis1_08.01.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uzduotis1_08.01/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uzduotis1_08.01/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uzduotis1_08.01/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uzduotis1_08.01/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uzduotis1_08.01/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uzduotis1_08.01/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uzduotis1_08.01/uzduotis/03_01.SpeedingTicket/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uzduotis1_08.01/uzduotis/03_01.SpeedingTicket/src/main/java/SpeedingTicket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uzduotis1_08.01/uzduotis/03_01.SpeedingTicket/src/test/java/SpeedingTicketTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uzduotis1_08.01/uzduotis/03_01.SpeedingTicket/target/classes/SpeedingTicket.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uzduotis1_08.01/uzduotis/03_01.SpeedingTicket/target/test-classes/SpeedingTicketTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uzduotis1_08.01/uzduotis/03_02.Positivity/.checkstyle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uzduotis1_08.01/uzduotis/03_02.Positivity/.tmcproject.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uzduotis1_08.01/uzduotis/03_02.Positivity/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uzduotis1_08.01/uzduotis/03_02.Positivity/src/main/java/Positivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uzduotis1_08.01/uzduotis/03_02.Positivity/src/test/java/PositivityTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uzduotis1_08.01/uzduotis/03_02.Positivity/target/classes/Positivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uzduotis1_08.01/uzduotis/03_02.Positivity/target/test-classes/PositivityTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uzduotis1_08.01/uzduotis/03_03.LargerThanOrEqualTo/.checkstyle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uzduotis1_08.01/uzduotis/03_03.LargerThanOrEqualTo/.tmcproject.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uzduotis1_08.01/uzduotis/03_03.LargerThanOrEqualTo/.tmcproject.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uzduotis1_08.01/uzduotis/03_03.LargerThanOrEqualTo/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uzduotis1_08.01/uzduotis/03_03.LargerThanOrEqualTo/src/main/java/LargerThanOrEqualTo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uzduotis1_08.01/uzduotis/03_03.LargerThanOrEqualTo/src/test/java/LargerThanOrEqualToTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uzduotis1_08.01/uzduotis/03_03.LargerThanOrEqualTo/target/classes/LargerThanOrEqualTo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uzduotis1_08.01/uzduotis/03_03.LargerThanOrEqualTo/target/test-classes/LargerThanOrEqualToTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uzduotis1_08.01/uzduotis/03_04.GradesAndPoints/.checkstyle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uzduotis1_08.01/uzduotis/03_04.GradesAndPoints/.tmcproject.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uzduotis1_08.01/uzduotis/03_04.GradesAndPoints/.tmcproject.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uzduotis1_08.01/uzduotis/03_04.GradesAndPoints/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uzduotis1_08.01/uzduotis/03_04.GradesAndPoints/src/main/java/GradesAndPoints.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uzduotis1_08.01/uzduotis/03_04.GradesAndPoints/src/test/java/GradesAndPointsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uzduotis1_08.01/uzduotis/03_04.GradesAndPoints/target/classes/GradesAndPoints.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uzduotis1_08.01/uzduotis/03_04.GradesAndPoints/target/test-classes/GradesAndPointsTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uzduotis1_08.01/uzduotis/03_05.OddOrEven/.checkstyle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uzduotis1_08.01/uzduotis/03_05.OddOrEven/.tmcproject.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uzduotis1_08.01/uzduotis/03_05.OddOrEven/.tmcproject.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uzduotis1_08.01/uzduotis/03_05.OddOrEven/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uzduotis1_08.01/uzduotis/03_05.OddOrEven/src/main/java/OddOrEven.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uzduotis1_08.01/uzduotis/03_05.OddOrEven/src/test/java/OddOrEvenTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uzduotis1_08.01/uzduotis/03_05.OddOrEven/target/classes/OddOrEven.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uzduotis1_08.01/uzduotis/03_05.OddOrEven/target/test-classes/OddOrEvenTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uzduotis1_08.01/uzduotis/03_06.Password/.checkstyle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uzduotis1_08.01/uzduotis/03_06.Password/.tmcproject.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uzduotis1_08.01/uzduotis/03_06.Password/.tmcproject.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uzduotis1_08.01/uzduotis/03_06.Password/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uzduotis1_08.01/uzduotis/03_06.Password/src/main/java/Password.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uzduotis1_08.01/uzduotis/03_06.Password/src/test/java/PasswordTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uzduotis1_08.01/uzduotis/03_06.Password/target/classes/Password.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uzduotis1_08.01/uzduotis/03_06.Password/target/test-classes/PasswordTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uzduotis1_08.01/uzduotis/03_07.Same/.checkstyle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uzduotis1_08.01/uzduotis/03_07.Same/.tmcproject.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uzduotis1_08.01/uzduotis/03_07.Same/.tmcproject.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uzduotis1_08.01/uzduotis/03_07.Same/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uzduotis1_08.01/uzduotis/03_07.Same/src/main/java/Same.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uzduotis1_08.01/uzduotis/03_07.Same/src/test/java/SameTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uzduotis1_08.01/uzduotis/03_07.Same/target/classes/Same.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uzduotis1_08.01/uzduotis/03_07.Same/target/test-classes/SameTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uzduotis1_08.01/uzduotis/03_08.CheckingTheAge/.checkstyle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uzduotis1_08.01/uzduotis/03_08.CheckingTheAge/.tmcproject.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uzduotis1_08.01/uzduotis/03_08.CheckingTheAge/.tmcproject.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uzduotis1_08.01/uzduotis/03_08.CheckingTheAge/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uzduotis1_08.01/uzduotis/03_08.CheckingTheAge/src/main/java/CheckingTheAge.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uzduotis1_08.01/uzduotis/03_08.CheckingTheAge/src/test/java/CheckingTheAgeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uzduotis1_08.01/uzduotis/03_08.CheckingTheAge/target/classes/CheckingTheAge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uzduotis1_08.01/uzduotis/03_08.CheckingTheAge/target/test-classes/CheckingTheAgeTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uzduotis1_08.01/uzduotis/03_09.LeapYear/.checkstyle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uzduotis1_08.01/uzduotis/03_09.LeapYear/.tmcproject.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uzduotis1_08.01/uzduotis/03_09.LeapYear/.tmcproject.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uzduotis1_08.01/uzduotis/03_09.LeapYear/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uzduotis1_08.01/uzduotis/03_09.LeapYear/src/main/java/LeapYear.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uzduotis1_08.01/uzduotis/03_09.LeapYear/src/test/java/LeapYearTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uzduotis1_08.01/uzduotis/03_09.LeapYear/target/classes/LeapYear.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uzduotis1_08.01/uzduotis/03_09.LeapYear/target/test-classes/LeapYearTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uzduotis1_08.01/uzduotis/03_10.GiftTax/.checkstyle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uzduotis1_08.01/uzduotis/03_10.GiftTax/.tmcproject.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uzduotis1_08.01/uzduotis/03_10.GiftTax/.tmcproject.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uzduotis1_08.01/uzduotis/03_10.GiftTax/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uzduotis1_08.01/uzduotis/03_10.GiftTax/src/main/java/GiftTax.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uzduotis1_08.01/uzduotis/03_10.GiftTax/src/test/java/GiftTaxTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uzduotis1_08.01/uzduotis/03_10.GiftTax/target/classes/GiftTax.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uzduotis1_08.01/uzduotis/03_10.GiftTax/target/test-classes/GiftTaxTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uzduotis1_08.01/uzduotis/uzduotis.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Uzduotis2_08.01.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_01.CarryOn/.checkstyle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_01.CarryOn/.tmcproject.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_01.CarryOn/.tmcproject.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_01.CarryOn/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_01.CarryOn/src/main/java/CarryOn.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_01.CarryOn/src/test/java/CarryOnTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_01.CarryOn/target/classes/CarryOn.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_01.CarryOn/target/test-classes/CarryOnTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_02.AreWeThereYet/.checkstyle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_02.AreWeThereYet/.tmcproject.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_02.AreWeThereYet/.tmcproject.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_02.AreWeThereYet/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_02.AreWeThereYet/src/main/java/AreWeThereYet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_02.AreWeThereYet/src/test/java/AreWeThereYetTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_02.AreWeThereYet/target/classes/AreWeThereYet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_02.AreWeThereYet/target/test-classes/AreWeThereYetTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_03.OnlyPositives/.checkstyle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_03.OnlyPositives/.tmcproject.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_03.OnlyPositives/.tmcproject.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_03.OnlyPositives/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_03.OnlyPositives/src/main/java/OnlyPositives.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_03.OnlyPositives/src/test/java/OnlyPositivesTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_03.OnlyPositives/target/classes/OnlyPositives.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_03.OnlyPositives/target/test-classes/OnlyPositivesTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_04.NumberOfNumbers/.checkstyle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_04.NumberOfNumbers/.tmcproject.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_04.NumberOfNumbers/.tmcproject.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_04.NumberOfNumbers/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_04.NumberOfNumbers/src/main/java/NumberOfNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_04.NumberOfNumbers/src/test/java/NumberOfNumbersTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_04.NumberOfNumbers/target/classes/NumberOfNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_04.NumberOfNumbers/target/test-classes/NumberOfNumbersTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_05.NumberOfNegativeNumbers/.checkstyle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_05.NumberOfNegativeNumbers/.tmcproject.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_05.NumberOfNegativeNumbers/.tmcproject.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_05.NumberOfNegativeNumbers/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_05.NumberOfNegativeNumbers/src/main/java/NumberOfNegativeNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_05.NumberOfNegativeNumbers/src/test/java/NumberOfNegativeNumbersTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_05.NumberOfNegativeNumbers/target/classes/NumberOfNegativeNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_05.NumberOfNegativeNumbers/target/test-classes/NumberOfNegativeNumbersTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_06.SumOfNumbers/.checkstyle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_06.SumOfNumbers/.tmcproject.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_06.SumOfNumbers/.tmcproject.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_06.SumOfNumbers/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_06.SumOfNumbers/src/main/java/SumOfNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_06.SumOfNumbers/src/test/java/SumOfNumbersTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_06.SumOfNumbers/target/classes/SumOfNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_06.SumOfNumbers/target/test-classes/SumOfNumbersTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_07.NumberAndSumOfNumbers/.checkstyle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_07.NumberAndSumOfNumbers/.tmcproject.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_07.NumberAndSumOfNumbers/.tmcproject.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_07.NumberAndSumOfNumbers/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_07.NumberAndSumOfNumbers/src/main/java/NumberAndSumOfNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_07.NumberAndSumOfNumbers/src/test/java/NumberAndSumOfNumbersTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_07.NumberAndSumOfNumbers/target/classes/NumberAndSumOfNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_07.NumberAndSumOfNumbers/target/test-classes/NumberAndSumOfNumbersTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_08.AverageOfNumbers/.checkstyle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_08.AverageOfNumbers/.tmcproject.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_08.AverageOfNumbers/.tmcproject.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_08.AverageOfNumbers/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_08.AverageOfNumbers/src/main/java/AverageOfNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_08.AverageOfNumbers/src/test/java/AverageOfNumbersTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_08.AverageOfNumbers/target/classes/AverageOfNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_08.AverageOfNumbers/target/test-classes/AverageOfNumbersTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_09.AverageOfPositiveNumbers/.checkstyle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_09.AverageOfPositiveNumbers/.tmcproject.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_09.AverageOfPositiveNumbers/.tmcproject.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_09.AverageOfPositiveNumbers/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_09.AverageOfPositiveNumbers/src/main/java/AverageOfPositiveNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_09.AverageOfPositiveNumbers/src/test/java/AverageOfPositiveNumbersTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_09.AverageOfPositiveNumbers/target/classes/AverageOfPositiveNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_09.AverageOfPositiveNumbers/target/test-classes/AverageOfPositiveNumbersTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_10.RepeatingBreakingAndRemembering/.checkstyle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_10.RepeatingBreakingAndRemembering/.tmcproject.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_10.RepeatingBreakingAndRemembering/.tmcproject.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_10.RepeatingBreakingAndRemembering/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_10.RepeatingBreakingAndRemembering/src/main/java/RepeatingBreakingAndRemembering.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_10.RepeatingBreakingAndRemembering/src/test/java/Osa2Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_10.RepeatingBreakingAndRemembering/src/test/java/Part1Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_10.RepeatingBreakingAndRemembering/src/test/java/Part3Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_10.RepeatingBreakingAndRemembering/src/test/java/Part4Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_10.RepeatingBreakingAndRemembering/src/test/java/Part5Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_10.RepeatingBreakingAndRemembering/src/test/java/Part5bTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_10.RepeatingBreakingAndRemembering/target/classes/RepeatingBreakingAndRemembering.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_10.RepeatingBreakingAndRemembering/target/test-classes/Osa2Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_10.RepeatingBreakingAndRemembering/target/test-classes/Part1Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_10.RepeatingBreakingAndRemembering/target/test-classes/Part3Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_10.RepeatingBreakingAndRemembering/target/test-classes/Part4Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_10.RepeatingBreakingAndRemembering/target/test-classes/Part5Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/04_10.RepeatingBreakingAndRemembering/target/test-classes/Part5bTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uzduotis/uzduotis.pdf" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2rLknQbfqVGcoUB8n4NPy9kUR8X" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AreWeThereYet.executor": "Run",
+    "Application.AverageOfNumbers.executor": "Run",
+    "Application.CarryOn.executor": "Run",
+    "Application.NumberAndSumOfNumbers.executor": "Run",
+    "Application.NumberOfNegativeNumbers.executor": "Run",
+    "Application.NumberOfNumbers.executor": "Run",
+    "Application.OnlyPositives.executor": "Run",
+    "Application.RepeatingBreakingAndRemembering.executor": "Run",
+    "Application.SumOfNumbers.executor": "Run",
+    "JUnit.All in 04_01.CarryOn (1).executor": "Run",
+    "JUnit.All in 04_01.CarryOn.executor": "Run",
+    "JUnit.All in 04_02.AreWeThereYet.executor": "Run",
+    "JUnit.All in 04_03.OnlyPositives.executor": "Run",
+    "JUnit.All in 04_04.NumberOfNumbers (1).executor": "Run",
+    "JUnit.All in 04_04.NumberOfNumbers.executor": "Run",
+    "JUnit.All in 04_05.NumberOfNegativeNumbers (1).executor": "Run",
+    "JUnit.All in 04_05.NumberOfNegativeNumbers (2).executor": "Run",
+    "JUnit.All in 04_05.NumberOfNegativeNumbers.executor": "Run",
+    "JUnit.All in 04_06.SumOfNumbers (1).executor": "Run",
+    "JUnit.All in 04_06.SumOfNumbers.executor": "Run",
+    "JUnit.All in 04_07.NumberAndSumOfNumbers (1).executor": "Run",
+    "JUnit.All in 04_07.NumberAndSumOfNumbers (2).executor": "Run",
+    "JUnit.All in 04_07.NumberAndSumOfNumbers.executor": "Run",
+    "JUnit.All in 04_08.AverageOfNumbers.executor": "Run",
+    "JUnit.All in 04_09.AverageOfPositiveNumbers (1).executor": "Run",
+    "JUnit.All in 04_09.AverageOfPositiveNumbers (2).executor": "Run",
+    "JUnit.All in 04_09.AverageOfPositiveNumbers.executor": "Run",
+    "JUnit.All in 04_16.RepeatingBreakingAndRemembering (1).executor": "Run",
+    "JUnit.All in 04_16.RepeatingBreakingAndRemembering (2).executor": "Run",
+    "JUnit.All in 04_16.RepeatingBreakingAndRemembering (3).executor": "Run",
+    "JUnit.All in 04_16.RepeatingBreakingAndRemembering (4).executor": "Run",
+    "JUnit.All in 04_16.RepeatingBreakingAndRemembering.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/edgar/OneDrive/Desktop/Java-mokslai/4.2",
+    "settings.editor.selected.configurable": "google-java-format.settings"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.All in 04_16.RepeatingBreakingAndRemembering (4)">
+    <configuration name="RepeatingBreakingAndRemembering" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RepeatingBreakingAndRemembering" />
+      <module name="04_16.RepeatingBreakingAndRemembering" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in 04_16.RepeatingBreakingAndRemembering (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="04_16.RepeatingBreakingAndRemembering" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in 04_16.RepeatingBreakingAndRemembering (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="04_16.RepeatingBreakingAndRemembering" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in 04_16.RepeatingBreakingAndRemembering (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="04_16.RepeatingBreakingAndRemembering" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in 04_16.RepeatingBreakingAndRemembering (4)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="04_16.RepeatingBreakingAndRemembering" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in 04_16.RepeatingBreakingAndRemembering (4)" />
+        <item itemvalue="JUnit.All in 04_16.RepeatingBreakingAndRemembering (3)" />
+        <item itemvalue="Application.RepeatingBreakingAndRemembering" />
+        <item itemvalue="JUnit.All in 04_16.RepeatingBreakingAndRemembering (2)" />
+        <item itemvalue="JUnit.All in 04_16.RepeatingBreakingAndRemembering (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab952a5d-d2fe-47ac-8e64-856640536026" name="Changes" comment="" />
+      <created>1736345909038</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1736345909038</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/uzduotis/04_08.AverageOfNumbers/src/main/java/AverageOfNumbers.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
