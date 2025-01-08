@@ -17,7 +17,6 @@ public class NumberAndSumOfNumbers {
             if (number == 0) {
                 System.out.println("Number of numbers: " + countNumbers);
                 System.out.println("Sum of the numbers: " + countSum);
-                
             }
         }
         calc.close();
