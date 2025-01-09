@@ -19,7 +19,6 @@ public class NumberOfNegativeNumbers {
             } else {
                 System.out.println("Number of negative numbers: " + countNegatives);
                 break;
-
             }
         }
         reader.close();
