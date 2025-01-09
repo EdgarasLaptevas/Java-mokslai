@@ -50,7 +50,7 @@ public class StarSign {
 
     public static void printTriangle(int size) {
         String star = "";
-        for (int r = 0; r < size; r++) {
+        for (int row = 0; row < size; row++) {
             star += "*";
             System.out.print(star);
             System.out.println();
