@@ -14,7 +14,5 @@ public class SumOfArray {
             sum += array[i];
         }
         return sum;
-
-
     }
 }
