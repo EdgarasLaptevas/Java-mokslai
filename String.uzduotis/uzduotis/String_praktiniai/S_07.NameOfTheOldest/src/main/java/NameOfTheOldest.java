@@ -35,11 +35,9 @@ public class NameOfTheOldest {
             if (nameAgeString.contains(oldestText)) {
                 nameAgeString = nameAgeString.substring(1, nameAgeString.length() - 1);
                 String[] nameAge = nameAgeString.split(",");
-
                 System.out.println(nameAge[0]);
             }
         }
-
         scanner.close();
 
     }

@@ -15,7 +15,6 @@ public class PersonalDetails {
                 break;
             }
             String[] nameDate = userString.split(",");
-            
             dateStrings.add(nameDate[1]);
             names.add(nameDate[0]);
 
