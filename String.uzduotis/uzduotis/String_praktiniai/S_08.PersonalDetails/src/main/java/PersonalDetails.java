@@ -15,14 +15,10 @@ public class PersonalDetails {
                 break;
             }
             String[] nameDate = userString.split(",");
-            for (int i = 0; i < nameDate.length; i++) {
-                if (i > 0) {
-                    dateStrings.add(nameDate[1]);
-                } else {
-                    names.add(nameDate[0]);
-                }
+            
+            dateStrings.add(nameDate[1]);
+            names.add(nameDate[0]);
 
-            }
         }
         int stringLength = 0;
         for (String name : names) {

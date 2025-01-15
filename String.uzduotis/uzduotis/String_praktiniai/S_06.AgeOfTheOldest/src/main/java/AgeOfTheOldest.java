@@ -15,11 +15,7 @@ public class AgeOfTheOldest {
                 break;
             }
             String[] nameAge = userString.split(",");
-            for (int i = 0; i < nameAge.length; i++) {
-                if (i > 0) {
-                    ageStrings.add(nameAge[1]);
-                }
-            }
+            ageStrings.add(nameAge[1]);
         }
         ArrayList<Integer> ages = new ArrayList<>();
         for (String ageString : ageStrings) {
