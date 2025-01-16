@@ -15,9 +15,10 @@ public class IoobProgram {
         lines.add("up with his quantum theory while studying...");
 
 
-        for (int i = 0; i < lines.size(); i++) {
-            System.out.println(lines.get(i));
+        for (String line : lines) {
+            System.out.println(line);
         }
+        lines.get(10);
     }
 
 
