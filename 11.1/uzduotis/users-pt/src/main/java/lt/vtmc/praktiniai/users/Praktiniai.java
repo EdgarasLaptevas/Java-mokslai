@@ -23,7 +23,7 @@ public class Praktiniai {
         for (User user : users) {
             sumAge += user.getAge();
             countUsers++;
-            
+
         }
         return (double) sumAge / countUsers;
     }

@@ -43,9 +43,8 @@ public class Warehouse {
             return 0.0;
         }
         if (amount > this.balance) {
-            double allThatWeCan = this.balance;
-            this.balance = 0.0;
-            return allThatWeCan;
+            amount = this.balance;
+            return amount;
         }
 
         this.balance = this.balance - amount;
