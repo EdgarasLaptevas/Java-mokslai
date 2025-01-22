@@ -14,7 +14,7 @@ public class ChangeHistory {
     }
 
     public void clear() {
-        changeHistory = new ArrayList<>();
+        changeHistory.clear();
     }
 
     @Override
