@@ -23,12 +23,12 @@ public class Main {
         System.out.println(names);
         names.removeIf((name) -> name.contains("H"));
         System.out.println(names);
-        names.sort((Comparator.comparing(String::valueOf).reversed()));
+        names.sort((name1, name2) -> name1.split("")
         System.out.println(names);
         int count = 0;
         names.forEach((name) -> {
             name.contains("ALICE");
-            count++;
+
         });
 
 
