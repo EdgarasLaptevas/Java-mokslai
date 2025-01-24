@@ -24,14 +24,16 @@ public class Main {
         names.removeIf((name) -> name.contains("H"));
         System.out.println(names);
         names.sort((Comparator.comparing(name -> name.charAt(name.length() - 1))));
-        names.sort((name1, name2) -> Character.compare(name1.charAt(name1.length() - 1),name2.charAt(name2.length() - 1)) );
+        names.sort((name1, name2) -> Character.compare(name1.charAt(name1.length() - 1), name2.charAt(name2.length() - 1)));
         System.out.println(names);
 
-//        int count = 0;
-//        names.forEach((name) -> {
-//            name.contains("ALICE");
-
-//        });
+        final Integer[] count = {0};
+        names.forEach((name) -> {
+            if (name.contains("ALICE")) {
+                count[0]++;
+            }
+        });
+        System.out.println("The word ALICE appears " + count[0] + " times.");
 
 
         List<Integer> numbers = new ArrayList<>();
