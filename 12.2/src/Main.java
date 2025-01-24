@@ -35,7 +35,6 @@ public class Main {
         });
         System.out.println("The word ALICE appears " + count[0] + " times.");
 
-
         List<Integer> numbers = new ArrayList<>();
         numbers.add(1);
         numbers.add(3);
