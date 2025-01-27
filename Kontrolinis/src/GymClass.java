@@ -4,15 +4,15 @@ import java.util.List;
 public class GymClass {
     private String className;
     private String schedule;
-    private List<String> enrolledMembers;
+    private List<Member> enrolledMembers;
 
     public GymClass(String className, String schedule) {
         this.className = className;
         this.schedule = schedule;
-        this.enrolledMembers = new ArrayList<String>();
+        this.enrolledMembers = new ArrayList<Member>();
     }
 
-    public void enroll(String member) {
+    public void enroll(Member member) {
         this.enrolledMembers.add(member);
     }
 
@@ -20,7 +20,7 @@ public class GymClass {
         return className;
     }
 
-    public List<String> getEnrolledMembers() {
+    public List<Member> getEnrolledMembers() {
         return enrolledMembers;
     }
 
