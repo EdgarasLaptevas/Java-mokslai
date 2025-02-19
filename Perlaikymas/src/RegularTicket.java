@@ -5,6 +5,15 @@ public class RegularTicket extends Ticket {
 
     public RegularTicket(int ticketId, int customerId, String movieTitle, String seatNumber) {
         super(ticketId, customerId);
+
+        if (movieTitle == null || movieTitle.trim().isEmpty()) {
+            throw new IllegalArgumentException("Movie title cannot be null or empty.");
+        }
+
+        if (seatNumber == null || seatNumber.trim().isEmpty()) {
+            throw new IllegalArgumentException("Movie title cannot be null or empty.");
+        }
+
         this.movieTitle = movieTitle;
         this.seatNumber = seatNumber;
     }

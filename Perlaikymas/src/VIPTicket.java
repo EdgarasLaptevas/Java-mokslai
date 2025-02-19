@@ -6,6 +6,19 @@ public class VIPTicket extends Ticket {
 
     public VIPTicket(int ticketId, int customerId, String movieTitle, String seatNumber, String extraBenefits) {
         super(ticketId, customerId);
+
+        if (movieTitle == null || movieTitle.trim().isEmpty()) {
+            throw new IllegalArgumentException("Movie title cannot be null or empty.");
+        }
+
+        if (seatNumber == null || seatNumber.trim().isEmpty()) {
+            throw new IllegalArgumentException("Movie title cannot be null or empty.");
+        }
+
+        if (extraBenefits == null || extraBenefits.trim().isEmpty()) {
+            throw new IllegalArgumentException("Movie title cannot be null or empty.");
+        }
+
         this.movieTitle = movieTitle;
         this.seatNumber = seatNumber;
         this.extraBenefits = extraBenefits;
