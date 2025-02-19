@@ -1,4 +1,4 @@
-import java.sql.SQLOutput;
+
 
 public class Main {
     public static void main(String[] args) {
@@ -30,11 +30,14 @@ public class Main {
         Gym gym = new Gym();
 
         gym.addMember(1, "Alice", 30);
-        gym.addMember(2, "Alice", 25);
-        gym.addMember(3, "Alice", 58);
+        gym.addMember(2, "Bob", 25);
+        gym.addMember(3, "Jeff", 58);
 
         gym.printMembers();
         System.out.println("---");
+
+        gym.addGymClass("Yoga", "Monday 6 PM");
+        gym.addGymClass("Zumba", "Wednesday 7 PM");
 
         gym.assignMembership(new MonthlyMembership(1, 1, 2));
         gym.assignMembership(new AnnualMembership(2, 2));

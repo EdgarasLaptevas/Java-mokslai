@@ -2,14 +2,14 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class GymClass {
-    private String className;
-    private String schedule;
-    private List<Member> enrolledMembers;
+    final private String className;
+    final private String schedule;
+    final private List<Member> enrolledMembers;
 
     public GymClass(String className, String schedule) {
         this.className = className;
         this.schedule = schedule;
-        this.enrolledMembers = new ArrayList<Member>();
+        this.enrolledMembers = new ArrayList<>();
     }
 
     public void enroll(Member member) {
@@ -28,7 +28,8 @@ public class GymClass {
     public String toString() {
         StringBuilder names = new StringBuilder();
         if (!enrolledMembers.isEmpty()) {
-            enrolledMembers.forEach((member) -> names.append(member.getName()).append(" "));
+            enrolledMembers.forEach((member) -> names.append(member.getName()).append(", "));
+            names.delete(names.length() - 2, names.length() - 1);
             return this.className + " (" + this.schedule + ") : " + names;
         }
         return this.className + " (" + this.schedule + ")";

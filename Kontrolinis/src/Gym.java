@@ -2,9 +2,9 @@ import java.util.*;
 
 public class Gym {
 
-    private Map<Integer, String> members;
-    private List<Membership> memberships;
-    private List<GymClass> gymClasses;
+    final private Map<Integer, ArrayList<String>> members;
+    final private List<Membership> memberships;
+    final private List<GymClass> gymClasses;
 
     public Gym() {
         this.members = new HashMap<>();
@@ -15,12 +15,15 @@ public class Gym {
     }
 
     public void addMember(int id, String name, int age) {
-        this.members.put(id, ": " + name + ", Age: " + age);
-
+        ArrayList<String> memberDetails = new ArrayList<>();
+        memberDetails.add(name);
+        memberDetails.add(String.valueOf(age));
+        this.members.put(id, memberDetails);
     }
 
     public void printMembers() {
-        this.members.forEach((key, value) -> System.out.println(key + value));
+        this.members.forEach((key, value) ->
+                System.out.println(key + ": " + value.getFirst() + ", Age: " + value.get(1)));
     }
 
     public void assignMembership(Membership membership) {
@@ -31,27 +34,29 @@ public class Gym {
         this.memberships.forEach(System.out::println);
     }
 
-    public void addGymClass(GymClass gymClass) {
-        this.gymClasses.add(gymClass);
+    public void addGymClass(String gymClass, String schedule) {
+        this.gymClasses.add(new GymClass(gymClass, schedule));
     }
 
-    public String enrollMemberInClass(int memberId, String gymClassName) {
-        if (this.members.containsKey(memberId)) {
-            return "Member Id not found";
+    public void enrollMemberInClass(int memberId, String gymClassName) {
+        if (!this.members.containsKey(memberId)) {
+            System.out.println("Member Id not found");
+            return;
         }
 
         for (GymClass gymClass : this.gymClasses) {
-            if (!gymClass.getClassName().equals(gymClassName)) {
-                return "Class not found";
-            } else {
-                gymClass.enroll(this.members.get(memberId));
+            if (gymClass.getClassName().equals(gymClassName)) {
+                gymClass.enroll(new Member(memberId, this.members.get(memberId).get(0),
+                        Integer.parseInt((this.members.get(memberId).get(1)))));
+                return;
             }
         }
-        return gymClassName;
+        System.out.println("Class not found");
     }
 
     public void printClassEnrollments() {
-        System.out.println("Class Enrollments: \n" + gymClasses.toString());
+        System.out.println("Class Enrollments: ");
+        gymClasses.forEach(System.out::println);
     }
 
 

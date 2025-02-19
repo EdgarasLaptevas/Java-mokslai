@@ -1,7 +1,7 @@
 public class Member {
-    private int id;
-    private String name;
-    private int age;
+    final private int id;
+    final private String name;
+    final private int age;
 
     public Member(int id, String name, int age) {
         this.id = id;
@@ -14,9 +14,6 @@ public class Member {
         return name;
     }
 
-    public int getId() {
-        return id;
-    }
 
     @Override
     public String toString() {

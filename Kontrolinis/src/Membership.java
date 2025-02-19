@@ -1,6 +1,6 @@
 abstract class Membership {
-    private int membershipID;
-    private int memberID;
+    final private int membershipID;
+    final private int memberID;
 
     Membership(int membershipID, int memberID) {
         this.membershipID = membershipID;
